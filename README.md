@@ -88,6 +88,16 @@ and the difference between monitoring signals and actively checking
 requirements.
 
 [Original work and retrospective](O07/readme.md)
+
+### Assignment 8 — FPGA Motor-Control System
+
+Integrated motor-command generation, direction control, synchronization,
+quadrature decoding and velocity display.
+
+Reused the PDM component from Assignment 7 after recognising its
+connection to the motor-modulation requirements.
+
+[Implementation and retrospective](O08/readme.md)
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

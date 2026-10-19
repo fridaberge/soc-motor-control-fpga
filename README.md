@@ -22,6 +22,16 @@ The original assignment guide is unavailable. The testbench provides input stimu
 
 [Implementation, simulation instructions and limitations](oblig1/README.md)
 
+### Assignment 2 — Combinational Decoder in VHDL
+
+Implemented a two-input, four-output active-low decoder using two alternative VHDL description styles: `case` and `with … select`.
+
+The assignment separates the shared entity from the alternative architectures and includes cocotb testbenches, a GHDL simulation configuration and an archived waveform screenshot.
+
+The original task description is unavailable. The archived testbench assertions require correction before automated verification can be relied upon.
+
+[Implementation, simulation instructions and limitations](assignment2/README.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

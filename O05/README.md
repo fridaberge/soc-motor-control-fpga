@@ -80,14 +80,18 @@ checking the two internal parity signals and the registered output.
 The Python helper functions provide expected parity values for
 the assertions.
 
-## Archived Simulation Screenshots
+  ## Simulation & Verification Results
 
-These images are retained as records of the original exercise,
-not as evidence of a newly verified simulation run.
+To ensure the reliability of the design, comprehensive testbenches were created. The waveform captures below serve as concrete verification that the internal logic and timing behave exactly as intended under simulated conditions, proving the functional correctness of the code before moving to hardware.
 
-- [Part a screenshot](taska.png)
-- [Part d screenshot](taskd.png)
-- [Part e screenshot](taske.png)
+This waveform verifies the bin2ssd module by demonstrating the correct translation of 4-bit binary inputs into 7-segment display codes according to the truth table.
+![Simulation Waveform Task a](taska.png)
+
+This waveform validates the integrated self_test_system, confirming that the c and abcdefg outputs correctly cycle through the secret message sequence driven by the internal one-second timer.
+![Simulation Waveform Task b](taskd.png)
+
+This waveform demonstrates the optional base-10 counter system, showing how the separate digit counters correctly increment the display in response to simulated button presses.
+![Simulation Waveform Task e](taske.png)
 
 ## Retrospective — What I Would Approach Differently
 

@@ -48,7 +48,7 @@ occupy different stages.
 
 ### Two-Stage Pipeline Datapath
 
-![Datapath of the two-stage RGB-to-grayscale pipeline](figure.png)
+![Datapath of the two-stage RGB-to-grayscale pipeline](diagrams.png)
 
 The first stage registers the three weighted colour products and
 delays the input-valid signal. The second stage adds the products,

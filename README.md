@@ -251,7 +251,7 @@ practices discussed there.
 | [`O09/`](O09/) | Pipelined grayscale conversion |
 | [`O10/`](O10/) | Zynq integration and software PID control |
 
-Directory names retain the original coursework naming conventions.
+Assignment directories use consistent numbering from O01 to O10.
 
 Depending on the assignment, a folder may contain:
 - VHDL source files.

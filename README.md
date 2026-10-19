@@ -67,6 +67,16 @@ on reproducible testing, reset handling and verification coverage.
 
 [Original work and retrospective](O05/readme.md)
 
+### Assignment 6 — Modular Seven-Segment Display Control
+
+Developed a modular VHDL design combining seven-segment decoding,
+two-digit multiplexing and a ROM-based message generator.
+
+The archived coursework is accompanied by a retrospective on reset
+behaviour, timing definitions, parameterisation and module integration.
+
+[Original work and retrospective](O06/readme.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

@@ -98,6 +98,18 @@ Reused the PDM component from Assignment 7 after recognising its
 connection to the motor-modulation requirements.
 
 [Implementation and retrospective](O08/readme.md)
+
+### Assignment 9 — Pipelined RGB-to-Grayscale Conversion
+
+Developed a two-stage grayscale conversion pipeline from supplied
+starting code, focusing on arithmetic sizing, overflow saturation
+and alignment of pixel data with validity signals.
+
+The archive includes VHDL, an image-based cocotb testbench and
+diagram files.
+
+[Implementation and retrospective](O09/readme.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

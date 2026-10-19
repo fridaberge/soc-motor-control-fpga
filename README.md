@@ -89,7 +89,7 @@ retrospective discusses what I now recognise about simulation semantics,
 timing units and diagram notation, and how I would approach the exercise
 differently.
 
-[Original work and retrospective](O03/readme.md)
+[Original work and retrospective](O03/README.md)
 
 ### Assignment 4 — Structural Shift Registers
 
@@ -100,7 +100,7 @@ a generic-width implementation.
 The archived VHDL and cocotb testbenches are accompanied by a retrospective
 on interface completeness, bit-order conventions and verification.
 
-[Original work and retrospective](O04/readme.md)
+[Original work and retrospective](O04/README.md)
 
 ### Assignment 5 — Functions, Packages and Self-Checking Verification
 
@@ -111,7 +111,7 @@ and assertions.
 The archived work includes simulation screenshots and a retrospective
 on reproducible testing, reset handling and verification coverage.
 
-[Original work and retrospective](O05/readme.md)
+[Original work and retrospective](O05/README.md)
 
 ### Assignment 6 — Modular Seven-Segment Display Control
 
@@ -133,7 +133,7 @@ The retrospective covers state-machine structure, counter boundaries
 and the difference between monitoring signals and actively checking
 requirements.
 
-[Original work and retrospective](O07/readme.md)
+[Original work and retrospective](O07/README.md)
 
 ### Assignment 8 — FPGA Motor-Control System
 
@@ -143,7 +143,7 @@ quadrature decoding and velocity display.
 Reused the PDM component from Assignment 7 after recognising its
 connection to the motor-modulation requirements.
 
-[Implementation and retrospective](O08/readme.md)
+[Implementation and retrospective](O08/README.md)
 
 ### Assignment 9 — Pipelined RGB-to-Grayscale Conversion
 
@@ -154,7 +154,7 @@ and alignment of pixel data with validity signals.
 The archive includes VHDL, an image-based cocotb testbench and
 diagram files.
 
-[Implementation and retrospective](O09/readme.md)
+[Implementation and retrospective](O09/README.md)
 
 ### Assignment 10 — SoC Integration and PID Motor Control
 
@@ -167,7 +167,7 @@ the Vivado-to-Vitis workflow and serial monitoring.
 **Verification:** Demonstrated the system to a lab supervisor and
 passed the practical assignment verification.
 
-[Implementation and retrospective](O10/readme.md)
+[Implementation and retrospective](O10/README.md)
 
 ## Motor-Control System
 
@@ -291,7 +291,7 @@ Assignment 10 uses Vivado and Vitis to build the hardware platform,
 prepare the embedded application and run it on the ZedBoard.
 
 Start with:
-- [Assignment 10 overview](O10/readme.md)
+- [Assignment 10 overview](O10/README.md)
 - [IP packaging instructions](O10/IP_creation.md)
 - [Block-design instructions](O10/blockdesign.md)
 - [Build and run instructions](O10/build.md)

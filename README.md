@@ -110,6 +110,19 @@ diagram files.
 
 [Implementation and retrospective](O09/readme.md)
 
+### Assignment 10 — SoC Integration and PID Motor Control
+
+Integrated the FPGA motor-control system from Assignment 8 with a
+supplied C PID controller running on the Zynq ARM processor.
+
+The assignment covered custom IP packaging, AXI GPIO integration,
+the Vivado-to-Vitis workflow and serial monitoring.
+
+**Verification:** Demonstrated the system to a lab supervisor and
+passed the practical assignment verification.
+
+[Implementation and retrospective](O10/readme.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

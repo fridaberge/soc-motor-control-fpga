@@ -32,6 +32,19 @@ The original task description is unavailable. The archived testbench assertions 
 
 [Implementation, simulation instructions and limitations](assignment2/README.md)
 
+### Assignment 3 — Signals, Variables and Process Sensitivity
+
+A VHDL learning exercise investigating variable and signal assignments,
+clocked behaviour and process sensitivity lists through simulation,
+written explanations and a draw.io diagram.
+
+The original submission is preserved, including mistakes. An accompanying
+retrospective discusses what I now recognise about simulation semantics,
+timing units and diagram notation, and how I would approach the exercise
+differently.
+
+[Original work and retrospective](O03/readme.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

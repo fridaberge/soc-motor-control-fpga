@@ -99,6 +99,12 @@ alternative display controller through two internal four-bit signals.
 The top-level interface provides clock and reset inputs, a digit-select
 output and the seven segment-control outputs.
 
+## Hardware Demonstration: LED Message
+
+This assignment successfully bridges the gap between code and physical hardware by implementing a text display on the board. Check out the demonstration video below, which shows the LEDs successfully outputting the programmed message in real-time.
+
+[🎬 Watch the LED Message Demonstration](./message.mp4)
+
 ## Retrospective — What I Would Approach Differently
 
 ### Reset Every State Element Deliberately

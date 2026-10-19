@@ -72,7 +72,7 @@ The original tool versions have not been recorded, and compatibility with a curr
 If the simulation configuration is saved as `tb/makefile.txt`, run the following from the repository root with the required tools available:
 
 ```bash
-cd oblig1/tb
+cd O01/tb
 make -f makefile.txt
 ```
 

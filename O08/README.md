@@ -82,8 +82,13 @@ and `tb_system` as the Python test module.
 It also contains commented alternatives for testing individual
 parts of the design.
 
-This identifies the configured simulation target; it does not
-establish that the tests passed.
+## Hardware Demonstration: Initial Motor Control
+
+This milestone marks the first successful physical rotation of the motor using our custom logic. 
+
+**Note on the video:** You might notice the motor stops briefly and makes some noise. This is actually expected behavior for this specific test! In the testbench, I intentionally applied very low binary values to observe how the system handles speeds at the absolute lower limits of its operational range.
+
+[🎬 Watch the Initial Motor Test](./motor.mp4)
 
 ## What I Would Do Today
 

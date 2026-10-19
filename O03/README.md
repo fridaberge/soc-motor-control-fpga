@@ -33,7 +33,7 @@ The original instructions are available in the
 | [`test/`](test/) | Archived testbenches and simulation configuration |
 | [`tasks.md`](tasks.md) | My original written answers |
 | [`3c.drawio.png`](3c.drawio.png) | My original draw.io illustration for part c |
-| [`task_description.md`](task_description.md) | Original course-provided assignment instructions |
+| [`task_description.md`](taskdescription.md) | Original course-provided assignment instructions |
 | [`tasks_tmp.html`](tasks_tmp.html) | Additional archived HTML file |
 
 ## My Work

@@ -55,6 +55,18 @@ The archived VHDL and cocotb testbenches are accompanied by a retrospective
 on interface completeness, bit-order conventions and verification.
 
 [Original work and retrospective](O04/readme.md)
+
+### Assignment 5 — Functions, Packages and Self-Checking Verification
+
+Refactored a supplied parity generator into reusable VHDL functions
+and a package, then extended a cocotb testbench with generated inputs
+and assertions.
+
+The archived work includes simulation screenshots and a retrospective
+on reproducible testing, reset handling and verification coverage.
+
+[Original work and retrospective](O05/readme.md)
+
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

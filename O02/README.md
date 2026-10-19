@@ -91,7 +91,7 @@ The configuration expects the VHDL files in `../src/` relative to the test direc
 From the repository root:
 
 ```bash
-cd assignment2/test
+cd O02/test
 make ARCHITECTURE=case
 ```
 

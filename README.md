@@ -8,3 +8,15 @@ ZedBoard/Zynq platform using VHDL, C and PID control.
 
 This is a coursework archive. Each assignment folder contains the available
 source files and supporting material from that stage of the work.
+
+
+## Contents
+## Technologies and Tools
+## Assignment Overview
+## Motor-Control System
+## My Contribution
+## Repository Guide
+## Building and Running
+## Results and Demonstrations
+## Limitations and Further Work
+## What I Learned

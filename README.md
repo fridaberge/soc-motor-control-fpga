@@ -77,6 +77,17 @@ behaviour, timing definitions, parameterisation and module integration.
 
 [Original work and retrospective](O06/readme.md)
 
+### Assignment 7 — Diagrams and Pulse Density Modulation
+
+Explored diagram-driven digital design through a pulse density
+modulation exercise, with an archived VHDL implementation and
+cocotb testbench.
+
+The retrospective covers state-machine structure, counter boundaries
+and the difference between monitoring signals and actively checking
+requirements.
+
+[Original work and retrospective](O07/readme.md)
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

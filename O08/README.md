@@ -86,7 +86,7 @@ parts of the design.
 
 This milestone marks the first successful physical rotation of the motor using our custom logic. 
 
-**Note on the video:** You might notice the motor stops briefly and makes some noise. This is actually expected behavior for this specific test! In the testbench, I intentionally applied very low binary values to observe how the system handles speeds at the absolute lower limits of its operational range.
+**Note on the video:** You might notice the motor stops briefly and makes some noise. This is likely because of the values from the testbench. I applied low binary values and observed that the system handled very low speed commands by making a high pitch noice, and not to rotate.
 
 [🎬 Watch the Initial Motor Test](./motor.mp4)
 

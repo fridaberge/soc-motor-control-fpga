@@ -45,6 +45,16 @@ differently.
 
 [Original work and retrospective](O03/readme.md)
 
+### Assignment 4 — Structural Shift Registers
+
+Built shift registers from a supplied flip-flop component, progressing
+from eight explicit instances to a generate-based 32-bit design and
+a generic-width implementation.
+
+The archived VHDL and cocotb testbenches are accompanied by a retrospective
+on interface completeness, bit-order conventions and verification.
+
+[Original work and retrospective](O04/readme.md)
 ## Motor-Control System
 ## My Contribution
 ## Repository Guide

@@ -1,10 +1,10 @@
-# IN3160- Digital systemkonstruksjon / Digital System Design
+# FPGA and SoC Motor Control
 
-NORSK:
-Innleveringer i faget IN3160: Digital systemkonstruksjon fra UiO. Beskrivelse av faget fra UiO sin nettside: 
-"Design av avanserte digitale systemer. Dette innebærer programmerbare logikk-kretser, et maskinvaredesignspråk og design av system-on-chip (prosessor, minne og logikk på en brikke). Lab-oppgaver gir praktisk erfaring i hvordan virkelige design kan lages."
+Coursework from **IN3160 – Digital System Design** at the
+**University of Oslo**, covering digital hardware design and embedded systems.
 
+The repository includes assignments associated with motor control on a
+ZedBoard/Zynq platform using VHDL, C and PID control.
 
-ENGLISH:
-Assignments from the course IN3160: Digital System Design from UiO. Description of the course from UiO`s website:
-"In this course you will learn about the design of advanced digital systems. This includes programmable logic circuits, a hardware design language and system-on-chip design (processor, memory and logic on a chip). Lab assignments provide practical experience in how real design can be made."
+This is a coursework archive. Each assignment folder contains the available
+source files and supporting material from that stage of the work.

@@ -45,7 +45,7 @@ active-low reset.
 | [`test/tb_shift32.py`](test/tb_shift32.py) | 32-bit testbench |
 | [`test/tb_shiftn.py`](test/tb_shiftn.py) | Testbench targeting the 64-bit configuration |
 | [`images/`](images/) | Illustrations referenced by the assignment instructions |
-| [`task_description.md`](task_description.md) | Original course-provided instructions |
+| [`task_description.md`](taskdescription.md) | Original course-provided instructions |
 
 ## Implementation Approach
 

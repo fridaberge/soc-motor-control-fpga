@@ -8,8 +8,11 @@ The focus was hardware–software integration: adapting the existing
 VHDL system, connecting it to the processing system and running the
 supplied controller on physical hardware.
 
-**Result:** The system was demonstrated to a lab supervisor and
-passed the assignment's practical verification.
+## Final Lab Demonstration: Integrated PID Control
+
+This is the culmination of the coursework: a fully integrated hardware adaptation. The system successfully runs the supplied C-based PID application on the Zynq SoC, communicating flawlessly with our custom FPGA logic. The video below demonstrates the complete, closed-loop system in action. 
+
+[🎬 Watch the Final System Demonstration](./motor_O10.mp4)
 
 ## Assignment Overview
 

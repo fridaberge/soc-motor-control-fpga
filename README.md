@@ -61,7 +61,7 @@ by a cocotb testbench and GHDL simulation configuration.
 The original assignment guide is unavailable. The testbench provides
 input stimulus but does not include automated output assertions.
 
-[Implementation, simulation instructions and limitations](oblig1/README.md)
+[Implementation, simulation instructions and limitations](O01/README.md)
 
 ### Assignment 2 — Combinational Decoder in VHDL
 
@@ -76,7 +76,7 @@ The original task description is unavailable. The archived testbench
 assertions require correction before automated verification can be
 relied upon.
 
-[Implementation, simulation instructions and limitations](assignment2/README.md)
+[Implementation, simulation instructions and limitations](O02/README.md)
 
 ### Assignment 3 — Signals, Variables and Process Sensitivity
 
@@ -240,8 +240,8 @@ practices discussed there.
 
 | Directory | Topic |
 | --- | --- |
-| [`oblig1/`](oblig1/) | Introductory FPGA design and simulation |
-| [`assignment2/`](assignment2/) | Combinational decoder |
+| [`O01/`](O01/) | Introductory FPGA design and simulation |
+| [`O02/`](O02/) | Combinational decoder |
 | [`O03/`](O03/) | Signals, variables and process sensitivity |
 | [`O04/`](O04/) | Structural shift registers |
 | [`O05/`](O05/) | Functions, packages and parity verification |

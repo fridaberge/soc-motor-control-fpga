@@ -37,7 +37,7 @@ The original instructions are available in the
 | [`src/`](src/) | Archived VHDL source files |
 | [`test/`](test/) | Archived testbenches and simulation configuration |
 | [`tasks.md`](tasks.md) | My original written answers |
-| [`newdiagram.darwio.png`](newdiagram.darwio.png) | Corrected draw.io illustration for part c |
+| [`newdiagram.darwio.png`](newdiagram.drawio.png) | Corrected draw.io illustration for part c |
 | [`taskdescription.md`](taskdescription.md) | Original course-provided assignment instructions |
 | [`tasks_tmp.html`](tasks_tmp.html) | Additional archived HTML file |
 
@@ -56,7 +56,7 @@ source and corrected.
 
 ## Corrected Illustration
 
-![Corrected conceptual diagram for part c](newdiagram.darwio.png)
+![Corrected conceptual diagram for part c](newdiagram.drawio.png)
 
 This diagram replaces the original `3c.drawio.png`. The corrections include:
 
